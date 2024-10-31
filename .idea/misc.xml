@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2945" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/drawable/bottom_nav_color.xml" value="0.238" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.3085" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/drawable/ic_remove.xml" value="0.242" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/activity_dang_nhap.xml" value="0.5" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/activity_main.xml" value="0.3578125" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/card_view_gio_hang.xml" value="0.5703245749613601" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/card_view_hoadon.xml" value="0.1" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/card_view_sanpham.xml" value="0.5" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/card_view_sua_sanpham.xml" value="0.33" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/cardview_sp_home.xml" value="0.5" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/dialog_confirm.xml" value="0.5" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/dialog_filters.xml" value="0.12613981762917933" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/dialog_notifi.xml" value="0.5" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/dialog_thanh_toan.xml" value="0.22780797101449277" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/dialog_xac_nhan_sua_tt_nv.xml" value="0.371875" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/dialog_xac_nhan_xoa.xml" value="0.371875" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_accoun_frgm.xml" value="0.371875" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_account_.xml" value="0.19166666666666668" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_account_frgm.xml" value="0.22" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_chi_tiet_s_p_frgm.xml" value="0.22" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_chi_tiet_s_p_sua_frgm.xml" value="0.22780797101449277" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_doi_m_k_frgm.xml" value="0.22780797101449277" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_home_frgm.xml" value="0.371875" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_product_frgm.xml" value="0.371875" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_store_frgm.xml" value="0.33" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_sua_n_v_frgm.xml" value="0.22780797101449277" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_sua_s_p_frgm.xml" value="0.33" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_sua_tt_nhan_vien.xml" value="0.371875" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_t_k_doanh_thu_frgm.xml" value="0.33" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_t_k_nhan_vien_frgm.xml" value="0.25" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_them_l_s_p.xml" value="0.5" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_them_nhan_vien_frgm.xml" value="0.18704710144927536" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_them_s_p_frgm.xml" value="0.5" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_thong_tin_n_v_frgm.xml" value="0.18704710144927536" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_user_info_frgm.xml" value="0.264" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/fragment_view_user_infor_frgm.xml" value="0.371875" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/item_thongkedoanhthu.xml" value="0.34057971014492755" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/item_thongkenhanvien.xml" value="0.25834542815674894" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/list_san_pham.xml" value="0.371875" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/layout/user_info_dialog.xml" value="0.18085106382978725" />
+        <entry key="..\:/My Document/FPT Polytechnic/K4_FA22/ProjectDA1_Poly/app/src/main/res/menu/menu.xml" value="0.371875" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable-v24/bo_goc_duoi.xml" value="0.3555" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/background_dialog.xml" value="0.3555" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/bo_tron_edt.xml" value="0.2955" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ct_button.xml" value="0.3555" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ct_edittext.xml" value="0.356" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_add_circle.xml" value="0.3615" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_add_product.xml" value="0.3615" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_bacham.xml" value="0.3615" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_back.xml" value="0.3615" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.3615" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_baseline_bookmark_add_24.xml" value="0.3615" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_baseline_calendar_month_24.xml" value="0.3615" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.3615" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_baseline_groups_24.xml" value="0.3615" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.3615" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_baseline_password_24.xml" value="0.3615" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_baseline_payments_24.xml" value="0.3615" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_edit.xml" value="0.3615" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_payments.xml" value="0.3605" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_remove.xml" value="0.3555" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_remove_2.xml" value="0.3605" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_search.xml" value="0.3555" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/ic_visibility_off.xml" value="0.356" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/drawable/item_layout.xml" value="0.3555" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/activity_add_image_products.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/activity_dang_nhap.xml" value="0.22" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/activity_daosp.xml" value="0.274609375" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/activity_gio_hang.xml" value="0.25" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/activity_image_products.xml" value="0.264453125" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/activity_main.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/activity_mhchao.xml" value="0.18802083333333333" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/activity_tt_sp.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/card_view_gio_hang.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/card_view_hoadon.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/card_view_sanpham.xml" value="0.33" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/cardview_sp_home.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/dialog_confirm.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/dialog_filter.xml" value="0.25" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/dialog_filters.xml" value="0.25" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/dialog_notifi.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/dialog_thanh_toan.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/dialog_xac_nhan_sua_tt_nv.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/dialog_xac_nhan_xoa.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/dialog_xacnhan.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_account_.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_account_frgm.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_chi_tiet_s_p_frgm.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_chi_tiet_s_p_sua_frgm.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_doi_m_k_frgm.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_home_frgm.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_product_frgm.xml" value="0.25" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_store_frgm.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_sua_n_v_frgm.xml" value="0.1909722222222222" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_sua_s_p_frgm.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_t_k_doanh_thu_frgm.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_t_k_nhan_vien_frgm.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_test.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_them_nhan_vien_frgm.xml" value="0.25" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_them_s_p_frgm.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_thong_tin_n_v_frgm.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/fragment_user_info_frgm.xml" value="0.25" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/item_thongkedoanhthu.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/item_thongkenhanvien.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/popup_hoadon.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/spinner_ma_loai.xml" value="0.275" />
+        <entry key="..\:/duan1_poly_group6_CP17302/app/src/main/res/layout/testlayout.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
